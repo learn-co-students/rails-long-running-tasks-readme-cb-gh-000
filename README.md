@@ -94,5 +94,3 @@ We've seen how something as straightforward as creating records from a data file
 But at least you have time for that coffee now.
 
 ![that's good coffee](http://i.giphy.com/dGhlifOCTtSdW.gif)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-long-running-tasks-readme'>Long Running Tasks in Rails</a> on Learn.co and start learning to code for free.</p>
