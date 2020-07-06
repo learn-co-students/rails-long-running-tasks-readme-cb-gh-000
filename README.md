@@ -7,7 +7,7 @@
 
 # Lesson
 
-Most of the things we do in Rails apps revolve around simple tasks that affect only one or a few database objects at a time, and are handled in milliseconds, quickly enough that the impact on the request/response time of our pages is minimal.
+Most of the things we do in Rails apps revolve around simple tasks that affect only one or a few database objects at a time, and are handled in milliseconds, quickly enough that the impact on the request/response time of our pages is minimal. j
 
 Sometimes, however, we need to do something that takes longer to do and heavily impacts page load time, like sending a bunch of emails, uploading large files, manipulating a lot of records, or generating a report. Let's look at how that might happen.
 
